@@ -1,0 +1,10 @@
+numpy
+opencv-python-headless
+pandas
+Pillow==9.5.0
+Pillow==9.5.0
+Requests
+scikit_learn
+streamlit
+tensorflow
+
